@@ -10,5 +10,6 @@ public class GameActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         //PlanetView planetView = (PlanetView)this.findViewById(R.id.planetView);
+        // OHADØOAEF ASF ASD ASD ASD
     }
 }
